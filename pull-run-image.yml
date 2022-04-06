@@ -1,0 +1,15 @@
+- name: pull docker image and create container and run the container
+  hosts: localsystem
+  
+  tasks:
+    - name: pull docker image from docker hub
+      docker_image: 
+        name: karthikhegde2022/spe-miniproject
+        source: pull
+
+    - name: create container from the pulled image
+      docker_container:
+        name: speMiniprojectContainerv1
+        image: karthikhegde2022/spe-miniproject:latest
+        state: started
+        detach: true
