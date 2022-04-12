@@ -3,24 +3,38 @@ package calculator;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class Calculator{
+
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
+
+
+
     public Calculator(){
     }
 
     public double Sqrt(double num){
-        return Math.sqrt(num);
+        logger.info("[SQ ROOT] - " + num);
+        double result = Math.sqrt(num);
+        logger.info("[RESULT - SQ ROOT] - " + result);
+        return result;
     }
 
     public double factorial(double num){
+        logger.info("[FACTORIAL] - " + num);
         double pdt = 1;
         for(double l=1; l<=num; l++){
             pdt *= l;
         }
         
+        logger.info("[RESULT - FACTORIAL] - " + pdt);
         return pdt;
     }
 
     public double natLog(double num){
+        logger.info("[NATURAL LOG] - " + num);
         double result = 0;
         try {
             if(num<0){
@@ -33,12 +47,16 @@ public class Calculator{
         }catch(ArithmeticException error){
             System.out.println("[EXCEPTION LOG] - Cannot find  log of negative numbers " + error.getLocalizedMessage());
         }
+        logger.info("[RESULT - NATURAL LOG] - " + result);
 
         return result;
     }
 
     public double power(double num, double exponent){
-        return Math.pow(num, exponent);
+        logger.info("[POWER] - " + num);
+        double result = Math.pow(num, exponent);
+        logger.info("[RESULT - POWER] - " + result);
+        return result;
     }
 
 
