@@ -1,2 +1,2 @@
 [localsystem]
-172.16.133.49 ansible_user=karthikhegde05
+127.0.0.1 ansible_user=karthikhegde05
