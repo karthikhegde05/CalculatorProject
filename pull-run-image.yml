@@ -14,4 +14,5 @@
         name: speMiniprojectContainerv1
         image: karthikhegde2022/spe-miniproject:latest
         state: started
+        interactive: yes
         detach: true
