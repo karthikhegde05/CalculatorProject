@@ -1,5 +1,7 @@
 - name: pull docker image and create container and run the container
   hosts: localsystem
+  vars: 
+    ansible_python_interpreter: /usr/bin/python3
   
   tasks:
     - name: pull docker image from docker hub
