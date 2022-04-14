@@ -1,2 +1,2 @@
-[localsystem]
-127.0.0.1 ansible_user=karthikhegde
+[virtualmachine]
+172.16.135.65 ansible_user=karthikubuntu
