@@ -14,6 +14,6 @@
         name: speMiniprojectContainerv1
         image: karthikhegde2022/spe-miniproject:latest
         state: started
-        recreate: yes
+        rec
         interactive: yes
         detach: true
