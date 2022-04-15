@@ -1,0 +1,54 @@
+2022-04-15 14:27:39.400 [main] INFO  calculator.Calculator - [factorial] - 4.0
+2022-04-15 14:27:39.402 [main] INFO  calculator.Calculator - [result of factorial] - 24.0
+2022-04-15 14:27:39.403 [main] INFO  calculator.Calculator - [factorial] - 5.0
+2022-04-15 14:27:39.403 [main] INFO  calculator.Calculator - [result of factorial] - 120.0
+2022-04-15 14:27:39.403 [main] INFO  calculator.Calculator - [factorial] - 10.0
+2022-04-15 14:27:39.403 [main] INFO  calculator.Calculator - [result of factorial] - 3628800.0
+2022-04-15 14:27:39.405 [main] INFO  calculator.Calculator - [natural log] - 2.4
+2022-04-15 14:27:39.405 [main] INFO  calculator.Calculator - [result of natural log] - 0.8754687373538999
+2022-04-15 14:27:39.406 [main] INFO  calculator.Calculator - [natural log] - 10.0
+2022-04-15 14:27:39.406 [main] INFO  calculator.Calculator - [result of natural log] - 2.302585092994046
+2022-04-15 14:27:39.406 [main] INFO  calculator.Calculator - [natural log] - 11.0
+2022-04-15 14:27:39.407 [main] INFO  calculator.Calculator - [result of natural log] - 2.3978952727983707
+2022-04-15 14:27:39.408 [main] INFO  calculator.Calculator - [square root] - 100.0
+2022-04-15 14:27:39.408 [main] INFO  calculator.Calculator - [result of square root] - 10.0
+2022-04-15 14:27:39.408 [main] INFO  calculator.Calculator - [square root] - 81.0
+2022-04-15 14:27:39.408 [main] INFO  calculator.Calculator - [result of square root] - 9.0
+2022-04-15 14:27:39.409 [main] INFO  calculator.Calculator - [square root] - 16.0
+2022-04-15 14:27:39.409 [main] INFO  calculator.Calculator - [result of square root] - 4.0
+2022-04-15 14:27:39.410 [main] INFO  calculator.Calculator - [square root] - 100.0
+2022-04-15 14:27:39.410 [main] INFO  calculator.Calculator - [result of square root] - 10.0
+2022-04-15 14:27:39.411 [main] INFO  calculator.Calculator - [square root] - 4.0
+2022-04-15 14:27:39.411 [main] INFO  calculator.Calculator - [result of square root] - 2.0
+2022-04-15 14:27:39.411 [main] INFO  calculator.Calculator - [square root] - 16.0
+2022-04-15 14:27:39.411 [main] INFO  calculator.Calculator - [result of square root] - 4.0
+2022-04-15 14:27:39.412 [main] INFO  calculator.Calculator - [natural log] - 1.0
+2022-04-15 14:27:39.412 [main] INFO  calculator.Calculator - [result of natural log] - 0.0
+2022-04-15 14:27:39.413 [main] INFO  calculator.Calculator - [natural log] - 1.0
+2022-04-15 14:27:39.413 [main] INFO  calculator.Calculator - [result of natural log] - 0.0
+2022-04-15 14:27:39.414 [main] INFO  calculator.Calculator - [power] - 2.0
+2022-04-15 14:27:39.414 [main] INFO  calculator.Calculator - [result of power] - 16.0
+2022-04-15 14:27:39.414 [main] INFO  calculator.Calculator - [power] - 10.0
+2022-04-15 14:27:39.415 [main] INFO  calculator.Calculator - [result of power] - 100.0
+2022-04-15 14:27:39.415 [main] INFO  calculator.Calculator - [power] - 9.0
+2022-04-15 14:27:39.415 [main] INFO  calculator.Calculator - [result of power] - 81.0
+2022-04-15 14:27:39.416 [main] INFO  calculator.Calculator - [power] - 2.0
+2022-04-15 14:27:39.416 [main] INFO  calculator.Calculator - [result of power] - 16.0
+2022-04-15 14:27:39.417 [main] INFO  calculator.Calculator - [power] - 10.0
+2022-04-15 14:27:39.417 [main] INFO  calculator.Calculator - [result of power] - 100.0
+2022-04-15 14:27:39.417 [main] INFO  calculator.Calculator - [power] - 6.0
+2022-04-15 14:27:39.417 [main] INFO  calculator.Calculator - [result of power] - 36.0
+2022-04-15 14:27:39.418 [main] INFO  calculator.Calculator - [power] - 9.0
+2022-04-15 14:27:39.418 [main] INFO  calculator.Calculator - [result of power] - 81.0
+2022-04-15 14:27:39.419 [main] INFO  calculator.Calculator - [factorial] - 10.0
+2022-04-15 14:27:39.419 [main] INFO  calculator.Calculator - [result of factorial] - 3628800.0
+2022-04-15 14:27:39.419 [main] INFO  calculator.Calculator - [factorial] - 4.0
+2022-04-15 14:27:39.419 [main] INFO  calculator.Calculator - [result of factorial] - 24.0
+2022-04-15 14:27:39.419 [main] INFO  calculator.Calculator - [factorial] - 6.0
+2022-04-15 14:27:39.420 [main] INFO  calculator.Calculator - [result of factorial] - 720.0
+2022-04-15 14:27:58.578 [main] INFO  calculator.Calculator - [power] - 10.0
+2022-04-15 14:27:58.583 [main] INFO  calculator.Calculator - [result of power] - 100.0
+2022-04-15 14:28:02.561 [main] INFO  calculator.Calculator - [factorial] - 2.0
+2022-04-15 14:28:02.562 [main] INFO  calculator.Calculator - [result of factorial] - 2.0
+2022-04-15 14:28:07.314 [main] INFO  calculator.Calculator - [factorial] - 10.0
+2022-04-15 14:28:07.315 [main] INFO  calculator.Calculator - [result of factorial] - 3628800.0
