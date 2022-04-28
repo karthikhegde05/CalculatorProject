@@ -1,2 +1,2 @@
 [virtualmachine]
-172.16.135.65 ansible_user=karthikubuntu
+172.16.134.215 ansible_user=karthikubuntu
